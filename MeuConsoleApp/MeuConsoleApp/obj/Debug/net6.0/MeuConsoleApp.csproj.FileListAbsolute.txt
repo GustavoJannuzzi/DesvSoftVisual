@@ -1,0 +1,14 @@
+C:\Users\gustavo.j.siebel\OneDrive - Accenture\Documents\Projetos\Dev. SWE Visual\MeuConsoleApp\MeuConsoleApp\bin\Debug\net6.0\MeuConsoleApp.exe
+C:\Users\gustavo.j.siebel\OneDrive - Accenture\Documents\Projetos\Dev. SWE Visual\MeuConsoleApp\MeuConsoleApp\bin\Debug\net6.0\MeuConsoleApp.deps.json
+C:\Users\gustavo.j.siebel\OneDrive - Accenture\Documents\Projetos\Dev. SWE Visual\MeuConsoleApp\MeuConsoleApp\bin\Debug\net6.0\MeuConsoleApp.runtimeconfig.json
+C:\Users\gustavo.j.siebel\OneDrive - Accenture\Documents\Projetos\Dev. SWE Visual\MeuConsoleApp\MeuConsoleApp\bin\Debug\net6.0\MeuConsoleApp.dll
+C:\Users\gustavo.j.siebel\OneDrive - Accenture\Documents\Projetos\Dev. SWE Visual\MeuConsoleApp\MeuConsoleApp\bin\Debug\net6.0\MeuConsoleApp.pdb
+C:\Users\gustavo.j.siebel\OneDrive - Accenture\Documents\Projetos\Dev. SWE Visual\MeuConsoleApp\MeuConsoleApp\obj\Debug\net6.0\MeuConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.j.siebel\OneDrive - Accenture\Documents\Projetos\Dev. SWE Visual\MeuConsoleApp\MeuConsoleApp\obj\Debug\net6.0\MeuConsoleApp.AssemblyInfoInputs.cache
+C:\Users\gustavo.j.siebel\OneDrive - Accenture\Documents\Projetos\Dev. SWE Visual\MeuConsoleApp\MeuConsoleApp\obj\Debug\net6.0\MeuConsoleApp.AssemblyInfo.cs
+C:\Users\gustavo.j.siebel\OneDrive - Accenture\Documents\Projetos\Dev. SWE Visual\MeuConsoleApp\MeuConsoleApp\obj\Debug\net6.0\MeuConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.j.siebel\OneDrive - Accenture\Documents\Projetos\Dev. SWE Visual\MeuConsoleApp\MeuConsoleApp\obj\Debug\net6.0\MeuConsoleApp.dll
+C:\Users\gustavo.j.siebel\OneDrive - Accenture\Documents\Projetos\Dev. SWE Visual\MeuConsoleApp\MeuConsoleApp\obj\Debug\net6.0\refint\MeuConsoleApp.dll
+C:\Users\gustavo.j.siebel\OneDrive - Accenture\Documents\Projetos\Dev. SWE Visual\MeuConsoleApp\MeuConsoleApp\obj\Debug\net6.0\MeuConsoleApp.pdb
+C:\Users\gustavo.j.siebel\OneDrive - Accenture\Documents\Projetos\Dev. SWE Visual\MeuConsoleApp\MeuConsoleApp\obj\Debug\net6.0\MeuConsoleApp.genruntimeconfig.cache
+C:\Users\gustavo.j.siebel\OneDrive - Accenture\Documents\Projetos\Dev. SWE Visual\MeuConsoleApp\MeuConsoleApp\obj\Debug\net6.0\ref\MeuConsoleApp.dll
